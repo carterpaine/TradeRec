@@ -1,1 +1,6 @@
-# TradeRec
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matplotlib
